@@ -77,7 +77,7 @@ The conversation (work item) transitions from **Wrap-up** to **Closed** state un
 
 ## Waiting
 
-Conversation in waiting state don't block your capacity. The conversations get transitioned to waiting state when you (agent) close the session without ending the conversation (without clicking **End** button on communication panel). For example, you are waiting for some information from customer and do not want to end the conversation. 
+Conversations in waiting state don't block your capacity. The conversations get transitioned to waiting state when you (agent) close the session without ending the conversation (without clicking **End** button on communication panel). For example, you are waiting for some information from customer and do not want to end the conversation. 
 
 The conversation (work item) transitions from **Waiting** to **Closed**, **Active**, or **Open** state under the following scenarios.
 
@@ -101,7 +101,7 @@ The session that you close while conversation is still in active state are class
 
 ## Closed
 
-The conversations that are completed by ending, and closing the session are classified under **Closed** state. When you close a conversation, you cannot reactivate or reopen the conversation again.
+The conversations that are completed by ending and closing the session are classified under **Closed** state. When you close a conversation, you cannot reactivate or reopen the conversation again.
 
 > [!div class="nextstepaction"]
 > [View communication panel](oc-conversation-control.md)
