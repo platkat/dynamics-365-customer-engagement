@@ -25,7 +25,8 @@
 #### [Configure settings for Unified Service Desk](administrator/configure-settings-unified-service-desk.md)
 ### [Delete Omnichannel solutions](administrator/delete-solution.md)
 
-### [Integrate a bot](administrator/configure-bot.md)
+### [Integrate an Azure bot](administrator/configure-bot.md)
+### [Integrate a Virtual Agent bot](administrator/configure-bot-virtual-agent.md)
 
 ### Channels
 #### [Configure a chat channel](administrator/set-up-chat-widget.md)
